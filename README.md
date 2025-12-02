@@ -41,13 +41,14 @@ funcionários), controlar prazos de devolução e aplicar notificações de atra
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](docs/casos_de_uso.jpg)
-
+![Diagrama de Casos de Uso](docs/CasodeUso.jpg)
 ### Diagrama de Sequência
-![Diagrama de Sequência](docs/diagrama_sequencia.png)
+![Diagrama de Sequência](docs/Sequencia1.jpg)
+![Diagrama de Sequência](docs/Sequencia2.jpg)
+![Diagrama de Sequência](docs/Sequencia3.jpg)
 
 ### Diagrama de Atividades
-![Diagrama de Atividades](docs/diagrama_atividades.png)
+![Diagrama de Atividades](docs/AtividadeDiagrama.jpg)
 
 ---
 
